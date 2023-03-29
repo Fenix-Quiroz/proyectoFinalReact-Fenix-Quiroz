@@ -1,0 +1,38 @@
+
+.cardsProducts{
+    text-decoration:  none;
+}
+.cardsContainer{
+    width: 90%;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    margin: 40px;
+}
+.cardsContainer:hover{
+    box-shadow: 0 0 10px 0 blue;
+    color: black;
+}
+.cardsTitle{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+    font-size: 1.5em;
+}
+.cardsImg{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    
+}
+.cardsPrice{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+}

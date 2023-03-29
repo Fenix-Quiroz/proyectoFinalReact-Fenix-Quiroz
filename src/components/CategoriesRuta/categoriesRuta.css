@@ -1,0 +1,16 @@
+.categories{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px auto;
+}
+.categoriesItems{
+    padding: 20px;
+    background-color: #646cffaa;
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+.categoriesItems:hover{
+    background-color: #eee;
+    color: #646cffaa;
+}

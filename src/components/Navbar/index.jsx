@@ -1,18 +1,23 @@
 
+import { Link } from "react-router-dom";
 import CartWidget from "../CartWidget";
-import "./Navbar.css";
+import styles from "./navbar.module.css";
 const Navbar = ({}) => {
   return (
-    <div className="header">
-      <div className="header__logo">
+    <div className={styles.header}>
+      <Link to="/home" className={styles.header__logo}>
+      <div >
         <p>LOGO</p>
       </div>
-      <div className="navbar">
-        <ul className="navbar__items">
-          <li className="navbar__item"><a href="#">Inicio</a></li>
-          <li className="navbar__item"><a href="#">Productos</a></li>
-          <li className="navbar__item"><a href="#">¿Qué somos?</a></li>
-          <li className="navbar__item"><a href="#">Contacto</a></li>
+      </Link>
+      <div className={styles.navbar}>
+        <ul className={styles.navbar__items}>
+          <Link to="/home" className={styles.navbar__item}>
+          <li >Inicio</li>
+          </Link>
+          <Link to="/products" className={styles.navbar__item}>
+          <li > Productos</li>
+          </Link>
         </ul>
         <CartWidget cartIcon="https://cdn-icons-png.flaticon.com/512/107/107831.png"/>
       </div>

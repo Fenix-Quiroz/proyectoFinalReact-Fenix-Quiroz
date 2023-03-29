@@ -1,0 +1,41 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    border: solid 1px #646cffaa;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.detailsTitle{
+    margin: 20px 0;
+    font-size: 2em;
+    color: white;
+}
+.detailsImg{
+    width: 300px;
+    height: 300px;
+}
+.detailsPrice{
+    margin: 20px 0;
+    font-size: 1.5em;
+    color: white;
+    color: #646cffaa;
+}
+.detailsDescription{
+    margin: 20px 0;
+    font-size: 1.2em;
+    color: white;
+    width: 600px;
+}
+.detailsCategory{
+    margin: 20px 0;
+    font-size: 1.4em;
+    color: white;
+}
+
+.detailsSpan{
+    color: #646cffaa;
+    font-weight: bold;
+}
