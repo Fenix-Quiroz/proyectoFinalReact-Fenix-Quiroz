@@ -1,32 +1,47 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
 import CardProduct from "../CardProduct";
 import CategoresRuta from "../CategoriesRuta/index.";
-import api from "../../api";
-const ItemListContainer = () => {
-  const [products, setProducts] = useState([]);
-  const   { categotyName } = useParams();
+import "./itemListContainer.css";
+import db from "../../../db/firebase-config";
+import { getDocs, collection } from "firebase/firestore";
+import { useParams } from "react-router-dom";
 
+const ItemListContainer = () => {
+  const [items, setItems] = useState([]);
+  const itemsReference = collection(db, "items");
+  const { categoryName } = useParams();
+  const [loading, setLoading] = useState(true);
   useEffect(() => {
-    const getProducts = async () => {   
-      const products = await api.getProducts()
-      if (categotyName) {
-        setProducts(products.filter((product) => product.category === categotyName));
+    const getItems = async () => {
+      const itemsCollection = await getDocs(itemsReference);
+      const items = itemsCollection.docs.map((doc) => ({
+        ...doc.data(),
+        id: doc.id,
+      }));
+      if (categoryName) {
+        setItems(items.filter((item) => item.category === categoryName));
       } else {
-        setProducts(products);
+        setItems(items);
+        setLoading(false)
       }
     };
 
-    getProducts();
-  }, [categotyName]);
+    getItems();
+  }, [categoryName]);
+  if (loading) {
+    return <h1> Loading...</h1>;
+  }
+
   return (
     <div>
-      <CategoresRuta products={products}/>
-        {products.map((product) => (
-          <CardProduct key={product.id} product={product}/>
+      <CategoresRuta products={items} />
+      <div className="productsContainer">
+        {items.map((item) => (
+          <CardProduct key={item.id} product={item} />
         ))}
+      </div>
     </div>
-  ) 
-}
+  );
+};
 
-export default ItemListContainer
+export default ItemListContainer;

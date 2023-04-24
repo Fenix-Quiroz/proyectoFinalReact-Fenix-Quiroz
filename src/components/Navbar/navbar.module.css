@@ -16,6 +16,13 @@
   color: inherit;
   cursor: pointer;
 }
+.logo{
+  color: black; 
+}
+.spanLogo{
+  color: white; 
+  font-weight: 800;
+}
 .navbar {
   display: flex;
   align-items: center;

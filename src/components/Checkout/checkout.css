@@ -1,0 +1,38 @@
+.container{
+    width: 600px;
+    margin-top: 80px;
+}
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th ,td {
+    border: solid 1px #646cffaa;
+    padding: 20px;
+}
+
+thead{
+    background-color: #646cffaa;
+}
+.tableTotalPrice{
+    color: #646cffaa;
+    font-weight: 800;
+    font-size: 1.5em;
+}
+.tableButtom{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1.7em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tableButtom:hover{
+    background-color: #646cffaa;
+    box-shadow: 1px 1px 10px white;
+}

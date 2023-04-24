@@ -1,162 +1,466 @@
 [
-    {
+  {
     "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
-    },
-    {
+    "title": "Golden State Warriors Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los Golden State Warriors está inspirado en la que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/020a4685-2868-451b-8b41-0509bc6dd0d1/jersey-dri-fit-nba-swingman-golden-state-warriors-association-edition-2022-23-7hfDc7.png"
+  },
+  {
     "id": 2,
-    "title": "Mens Casual Premium Slim Fit T-Shirts ",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-    "category": "men",
-    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-    },
-    {
+    "title": "Golden State Warriors City Edition",
+    "price": 120,
+    "description": "Tu equipo tiene lazos poderosos con su ciudad natal y el jersey Golden State Warriors City Edition celebra ese vínculo. Para resaltar la cultura y la comunidad de la localidad de tu equipo para este diseño tipo réplica, tomamos características de los uniformes anteriores que hacen alusión a la identidad de San Francisco. Además, la tela transpirable y absorbente de sudor te ayuda a mantener la frescura mientras muestras tu lealtad a tu equipo favorito y a la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3ff6ec13-6812-4a1a-94b4-9fa26eb63dd0/jersey-dri-fit-swingman-de-la-nba-stephen-curry-golden-state-warriors-city-edition-n27r16.png"
+  },
+  {
     "id": 3,
-    "title": "Mens Cotton Jacket",
-    "price": 55.99,
-    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-    "category": "men",
-    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
-    },
-    {
+    "title": "Milwaukee Bucks Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En honor a una vasta herencia basquetbolera, este jersey de los Milwaukee Bucks está inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bcaf433a-56c9-4908-a4a8-dc2b4ea36683/jersey-dri-fit-nba-swingman-milwaukee-bucks-icon-edition-2022-23-cDT7vp.png"
+  },
+  {
     "id": 4,
-    "title": "Mens Casual Slim Fit",
-    "price": 15.99,
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-    "category": "men",
-    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-    },
-    {
+    "title": "Milwaukee Bucks City Edition",
+    "price": 120,
+    "description": "Tu equipo tiene lazos poderosos con su ciudad natal y el jersey Milwaukee Bucks City Edition celebra ese vínculo. Para resaltar la cultura y la comunidad de la localidad de tu equipo, para este diseño tipo réplica, tomamos características de los uniformes anteriores que hacen alusión a la identidad de Milwaukee. Además, la tela transpirable y absorbente de sudor te ayuda a mantener la frescura mientras muestras tu lealtad a tu equipo favorito y a la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/54caefc3-cf37-4409-8c4d-2afa966d5884/jersey-dri-fit-swingman-de-la-nba-giannis-antetokounmpo-milwaukee-bucks-city-edition-qc3GGN.png"
+  },
+  {
     "id": 5,
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
-    },
-    {
+    "title": "Denver Nuggets Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En homenaje a un rico legado del básquetbol, este jersey de los Denver Nuggets se inspira en el que usan los profesionales en la cancha, desde detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a866bcf7-b93e-4c61-913e-a298a75578c2/jersey-dri-fit-nba-swingman-denver-nuggets-icon-edition-2022-23-ZVLqtj.png"
+  },
+  {
     "id": 6,
-    "title": "Solid Gold Petite Micropave ",
-    "price": 168,
-    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
-    },
-    {
+    "title": "Denver Nuggets Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los Denver Nuggets está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c237eded-a044-45d2-ab4f-79147a8de40e/jersey-dri-fit-nba-swingman-denver-nuggets-association-edition-2022-23-KdXPZM.png"
+  },
+  {
     "id": 7,
-    "title": "White Gold Plated Princess",
-    "price": 9.99,
-    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
-    },
-    {
+    "title": "Boston Celtics Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Boston Celtics, que rinde homenaje a la rica herencia del básquetbol, está inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/78e8617a-dd97-4617-9a9b-0045a3acfa3b/jersey-dri-fit-nba-swingman-boston-celtics-icon-edition-2022-23-JZM4Sm.png"
+  },
+  {
     "id": 8,
-    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-    "price": 10.99,
-    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
-    },
-    {
+    "title": "Boston Celtics Icon Edition White 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Boston Celtics, que rinde homenaje a la rica herencia del básquetbol, está inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://basketballjerseyarchive.com/image/2022/07/27/xFX6yfMzL4hJlwM/boston-celtics-2021-22-classic-jersey.jpg"
+  },
+  {
     "id": 9,
-    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-    "price": 64,
-    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
-    },
-    {
+    "title": "Los Angeles Lakers Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de Los Angeles Lakers está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d95ef775-76c2-44e0-b541-8374cd604fe3/jersey-dri-fit-nba-swingman-los-angeles-lakers-association-edition-2022-23-RkwZcv.png"
+  },
+  {
     "id": 10,
-    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-    "price": 109,
-    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
-    },
-    {
+    "title": "Los Angeles Lakers Diamond Icon Edition",
+    "price": 120,
+    "description": "Cada equipo tiene una identidad icónica, los verdaderos colores que han resonado con los fans durante generaciones.El jersey Swingman Los Angeles Lakers Diamond Icon Edition conmemora el hito de la temporada del 75 aniversario de la liga con logotipos inspirados en los diamantes y una etiqueta deportiva actualizada.Las aberturas a los lados del dobladillo, que es más largo en la parte posterior, brindan mayor libertad de movimiento.Este producto está fabricado con al menos un 75% de fibras de poliéster reciclado.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cfffb392-bc21-4d6f-9f03-765f91a495f1/jersey-dri-fit-adv-nba-authentic-los-angeles-lakers-icon-edition-2022-23-5BLJfr.png"
+  },
+  {
     "id": 11,
-    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-    "price": 109,
-    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
-    },
-    {
+    "title": "Sacramento Kings Icon Edition White 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Sacramento Kings, que rinde homenaje a una gran tradición del básquetbol, se inspira en el que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://basketballjerseyarchive.com/image/2022/07/28/ofqXxWy3Z29BBLA/sacramento-kings-2017-23-association-jersey.jpg"
+  },
+  {
     "id": 12,
-    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-    "price": 114,
-    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
-    },
-    {
+    "title": "Sacramento Kings Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Sacramento Kings, que rinde homenaje a una gran tradición del básquetbol, se inspira en el que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c58403b6-4a94-4bfe-a3c8-0dd85d1239a2/jersey-dri-fit-nba-swingman-sacramento-kings-icon-edition-2022-23-R5Hj4s.png"
+  },
+  {
     "id": 13,
-    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-    "price": 599,
-    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
-    },
-    {
+    "title": "76ers Statement Edition 2020",
+    "price": 120,
+    "description": "El jersey Statement Edition se distingue por sus colores y detalles audaces y alternativos. Se trata de una prenda que simboliza la fuerza y el espíritu colectivos, y la mentalidad competitiva de los jugadores.La camiseta Jordan NBA Statement Edition Swingman de los Philadelphia 76ers está inspirada en la que llevan los profesionales.La tela premium de doble punto cuenta con una confección clásica y un ajuste que se ve bien desde todos los ángulos.Este producto está fabricado al 100% con fibras de poliéster reciclado.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6e3e7578-3e33-486f-96c7-bc95d24cf17a/camiseta-jordan-nba-swingman-76ers-statement-edition-2020-Xgp0dZ.png"
+  },
+  {
     "id": 14,
-    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA). Super Ultrawide Screen QLED ",
-    "price": 999.99,
-    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
-    },
-    {
+    "title": "PhiladePhiladelphia 76ers Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En honor a una vasta herencia basquetbolera, este jersey de los Philadelphia 76ers está inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d85dbe7e-60d5-46de-81d4-3d9abe530806/jersey-dri-fit-nba-swingman-philadelphia-76ers-icon-edition-2022-23-8mnb5b.png"
+  },
+  {
     "id": 15,
-    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-    "price": 56.99,
-    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-    "category": "women",
-    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
-    },
-    {
+    "title": "Brooklyn Nets Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Brooklyn Nets, que rinde homenaje a la rica herencia del básquetbol, está directamente inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d66a472-8a3e-40eb-bdb9-324031eb22e1/jersey-dri-fit-nba-swingman-brooklyn-nets-icon-edition-2022-23-VZs2n9.png"
+  },
+  {
     "id": 16,
-    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-    "price": 29.95,
-    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-    "category": "women's clothing",
-    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
-    },
-    {
+    "title": "Brooklyn Nets City Edition",
+    "price": 120,
+    "description": "Tu equipo tiene lazos poderosos con su ciudad natal y el jersey Brooklyn Nets City Edition celebra ese vínculo. Para resaltar la cultura y la comunidad de la localidad de tu equipo en este diseño tipo réplica, tomamos características de los uniformes anteriores que hacen alusión a la identidad de Brooklyn. Además, la tela transpirable y absorbente de sudor te ayuda a mantener la frescura mientras muestras tu lealtad a tu equipo favorito y a la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7ec0e031-a9f4-4ec7-b1eb-973bda04e983/jersey-dri-fit-swingman-de-la-nba-ben-simmons-brooklyn-nets-city-edition-5gxdm0.png"
+  },
+  {
     "id": 17,
-    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-    "price": 39.99,
-    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-    "category": "women",
-    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
-    },
-    {
+    "title": "LA Clippers Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los LA Clippers está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/96139952-19ea-432a-8e5e-d6c1c7d5982e/jersey-dri-fit-nba-swingman-la-clippers-association-edition-2022-23-hjmmZl.png"
+  },
+  {
     "id": 18,
-    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-    "price": 9.85,
-    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-    "category": "women",
-    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
-    },
-    {
+    "title": "LA Clippers City Edition",
+    "price": 120,
+    "description": "Con un fondo negro, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los LA Clippers está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c542422a-0705-4c99-8398-1b02db02c476/jersey-jordan-dri-fit-nba-swingman-los-angeles-clippers-statement-edition-zmNg47.png"
+  },
+  {
     "id": 19,
-    "title": "Opna Women's Short Sleeve Moisture",
-    "price": 7.95,
-    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-    "category": "women",
-    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
-    },
-    {
+    "title": "Dallas Mavericks Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los Dallas Mavericks está inspirado en la que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ff811433-a53d-4fd7-8680-82f0bed9b775/jersey-dri-fit-nba-swingman-dallas-mavericks-association-edition-2022-23-MNbdPl.png"
+  },
+  {
     "id": 20,
-    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-    "price": 12.99,
-    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-    "category": "women",
-    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
-    }
-    ]
+    "title": "Dallas Mavericks Statement Edition",
+    "price": 120,
+    "description": "Emula a tu jugador favorito con este jersey de los Dallas Mavericks, un favorito de los fans con logotipos y detalles de diseño iguales a los que usan los profesionales en la cancha. Además, infunde malla transpirable con tecnología absorbente de sudor para mantener la frescura y la transpirabilidad, ya sea que estés dejándolo todo en la cancha o simplemente pasándolo bien por la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/67c17e12-67ac-4d46-a506-6c798410b95b/jersey-swingman-jordan-dri-fit-de-la-nba-dallas-mavericks-statement-edition-Nd63nX.png"
+  },
+  {
+    "id": 21,
+    "title": "Miami Heat City Edition",
+    "price": 120,
+    "description": "Tu equipo tiene lazos poderosos con su ciudad natal y el jersey Miami Heat City Edition celebra ese vínculo. Para resaltar la cultura y la comunidad de la ciudad de tu equipo para este diseño de réplica, extrajimos características de los uniformes anteriores que hacen alusión a la identidad de Miami. Además, la tela transpirable y absorbente de sudor te ayuda a mantener la frescura mientras muestras tu lealtad a tu equipo favorito y a la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e65ec44-d97c-4a59-bd8c-920e59386c40/jersey-dri-fit-swingman-de-la-nba-jimmy-butler-miami-heat-city-edition-vPq0zW.png"
+  }, 
+  {
+    "id": 22,
+    "title": "Miami Heat Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En homenaje a un rico legado del básquetbol, este jersey de Miami Heat se inspira en el que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/37cf38bd-4118-45c2-806d-3303e71c1c34/jersey-dri-fit-nba-swingman-miami-heat-icon-edition-2022-23-hQFm5f.png"
+  },
+  {
+    "id": 23,
+    "title": "Phoenix Suns Statement Edition",
+    "price": 120,
+    "description": "Emula a tu jugador favorito con este jersey de Phoenix Suns, un favorito de los fans con logotipos y detalles de diseño que combinan con lo que usan los profesionales en la cancha. Además, infunde malla transpirable con tecnología absorbente de sudor para mantener la frescura y la transpirabilidad, ya sea que estés dejándolo todo en la cancha o simplemente pasándola bien por la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22e509dd-40b1-4a5a-b385-123f942a3606/jersey-jordan-dri-fit-nba-swingman-phoenix-suns-statement-edition-ZzK6WQ.png"
+  },
+  {
+    "id": 24,
+    "title": "Phoenix Suns City Edition",
+    "price": 120,
+    "description": "Tu equipo tiene lazos poderosos con su ciudad natal y la camiseta Phoenix Suns City Edition celebra ese vínculo. Para resaltar la cultura y la comunidad local de tu equipo, en este diseño tipo réplica tomamos características de uniformes anteriores que hacen alusión a la identidad de Phoenix. Además, la tela transpirable y absorbente de sudor te ayuda a mantener la frescura mientras muestras tu lealtad a tu equipo favorito y a la ciudad.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d6802685-54a8-4c18-9063-65521c891a86/jersey-swingman-de-la-nba-dri-fit-chris-paul-suns-city-edition-9qZbGj.png"
+  },
+  {
+    "id": 25,
+    "title": "New York Knicks Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los New York Knicks, que rinde homenaje a la rica herencia del básquetbol, se inspira directamente en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1bd8f39b-4ed9-4634-9e8c-ac576902bdee/jersey-dri-fit-nba-swingman-new-york-knicks-icon-edition-2022-23-xm9mDm.png"
+  },
+  {
+    "id": 26,
+    "title": "New York Knicks Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es el hilo conductor que une a todos los equipos de la NBA. El jersey de los New York Knicks está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41f102ba-4757-45bb-9fd5-ce19d0a2dd6e/jersey-dri-fit-swingman-de-la-nba-new-york-knicks-association-edition-2022-23-RH4T4D.png"
+  },
+  {
+    "id": 27,
+    "title": "Oklahoma City Thunder Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En honor a la rica herencia del básquetbol, este jersey del Oklahoma City Thunder está inspirado directamente en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta una malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/826cb327-e590-41c0-abaf-c044b2ec8137/jersey-dri-fit-nba-swingman-oklahoma-city-thunder-icon-edition-2022-23-qq3CN7.png"
+  },
+  {
+    "id": 28,
+    "title": "Oklahoma City Thunder City Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En honor a la rica herencia del básquetbol, este jersey del Oklahoma City Thunder está inspirado directamente en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta una malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://basketballjerseyarchive.com/image/2022/07/28/jtahhdSUxnI8ydH/oklahoma-city-thunder-2018-19-city-jersey.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Memphis Grizzlies Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En homenaje a un rico legado del básquetbol, este jersey del Memphis Grizzlies se inspira en el que usan los profesionales en la cancha, desde detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4972bdbc-eac9-4570-a072-07245454bcaf/jersey-dri-fit-nba-swingman-memphis-grizzlies-icon-edition-2022-23-szQgKP.png"
+  },
+  {
+    "id": 30,
+    "title": "Memphis Grizzlies Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey de los Memphis Grizzlies está inspirado en lo que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c0bdc1f2-cea4-4e2c-84ee-2a96000d729a/jersey-dri-fit-nba-swingman-memphis-grizzlies-association-edition-2022-23-VGMc9S.png"
+  },
+  {
+    "id": 31,
+    "title": "Cleveland Cavaliers Diamond Icon Edition",
+    "price": 120,
+    "description": "Cada equipo tiene una identidad icónica, los verdaderos colores que han resonado con los fans durante generaciones.La camiseta Cleveland Cavaliers Diamond Icon Edition Swingman es una camiseta conmemorativa de la temporada del 75 aniversario del hito de la liga con logotipos inspirados en los diamantes y una etiqueta deportiva actualizada.La camiseta cuenta con un nuevo dobladillo con aberturas laterales para que puedas moverte con libertad.Este producto está fabricado con al menos un 75% de fibras de poliéster reciclado.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7a6c683b-9013-4948-8b3c-b66348b9f0fc/jersey-dri-fit-nba-swingman-cleveland-cavaliers-diamond-icon-edition-9gF5lS.png"
+  },
+  {
+    "id": 32,
+    "title": "Cleveland Cavaliers Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. En honor a la rica herencia del básquetbol, este jersey de los Cleveland Cavaliers está inspirado en lo que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera y absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/35267694-3620-4ae7-b82f-e3c6d20bddf4/jersey-dri-fit-nba-swingman-cleveland-cavaliers-icon-edition-2022-23-3m22Dv.png"
+  },
+  {
+    "id": 33,
+    "title": "Atlanta Hawks Icon Edition 2022/23",
+    "price": 120,
+    "description": "Cada equipo tiene sus verdaderos colores, una identidad inconfundible que lo distingue del resto de la liga. Este jersey de los Atlanta Hawks, que rinde homenaje a una gran tradición del básquetbol, se inspira en el que usan los profesionales en la cancha, desde los detalles del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras representas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e1363155-e8d5-4af9-9de1-27ade7d990cd/camiseta-dri-fit-nba-swingman-atlanta-hawks-icon-edition-2022-23-QhrJwf.png"
+  },
+  {
+    "id":34,
+    "title": "Atlanta Hawks Association Edition 2022/23",
+    "price": 120,
+    "description": "Con un fondo blanco, el jersey Association Edition es una prenda en común que comparte cada equipo de la NBA. El jersey Atlanta Hawks está inspirado en el que usan los profesionales en la cancha, desde los colores y los gráficos del equipo hasta la malla ligera absorbente de sudor. Te ayuda a mantener la transpirabilidad y la frescura dentro y fuera de la cancha mientras apoyas a tu jugador favorito y al juego que amas.",
+    "category": "camisetas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2a9e2bdd-b781-4814-8fa7-e7622418b2b7/jersey-swingman-dri-fit-de-la-nba-atlanta-hawks-association-edition-2022-23-PjFPxd.png"
+  },
+
+
+
+
+
+
+  {
+    "id": 35,
+    "title": "Tatum 1 'ST. Louis'",
+    "price": 90,
+    "description": "Tu amor por el juego nunca se desvanece. Por eso, el Tatum 1 se creó pensando en la longevidad. Diseñado para llevarte desde el primer tiempo hasta el cuarto (y cualquier tiempo extra que surja) de la forma más eficiente posible, lo redujimos a lo imprescindible y lo hicimos realmente muy bien. Sea cual sea el escenario de básquetbol en el que estés, el Tatum 1 te mantendrá jugando.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/017af2cc-31b4-4b7d-b28c-c984f0da2af1/calzado-de-b%C3%A1squetbol-tatum-1-st-louis-98vPwk.png"
+  },
+  {
+    "id": 36,
+    "title": "Ja 1 'Day One'",
+    "price": 110,
+    "description": "Ja Morant salió adelante clavando tiros repetidamente en aros torcidos, saltando sobre neumáticos de tractor y practicando regates con conos de tránsito en el calor tórrido de Carolina del Sur. El Ja 1 'Day One' rinde homenaje al lugar de sus raíces y a sus allegados, que son la fuerza motora en su ascenso al estrellato. Más allá de la combinación de colores inspirada en el amanecer y la tecnología apta para la cancha, las notas manuscritas de Ja añaden un toque personal al diseño. El gráfico repetitivo '12 AM' refleja su mentalidad diaria de empezar de nuevo y estar listo para luchar. La plantilla tiene una dedicación a las personas y experiencias que continúan definiendo su trayectoria: los fans y los haters, victorias y derrotas, y todo lo demás. Del primer día al Ja 1 y más allá.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a7d866f5-9593-4341-8a1e-74051be235eb/calzado-de-b%C3%A1squetbol-ja-1-day-one-jVmDDD.png"
+  },
+  {
+    "id": 37,
+    "title": "LeBron NXXT GEN",
+    "price": 160,
+    "description": "Ya sea que ames hacer clavadas tipo torneo o seas una maravilla debajo del aro que vive en la zona de tiro, siéntete con confianza, más veloz y más cerca de la cancha con el LeBron NXXT Gen. Lo adaptamos específicamente para satisfacer las necesidades del juego rápido actual y que puedas superar a los rivales con tu velocidad y fuerza en todas direcciones.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c130c296-24c3-4419-9516-d6461e4e87ea/calzado-de-b%C3%A1squetbol-lebron-nxxt-gen-55g4w1.png"
+  },
+
+
+
+
+  {
+    "id": 38,
+    "title": "Giannis Immortality 2",
+    "price": 85,
+    "description": "Mantente atemporal con el Giannis Immortality 2. El paquete de espuma acolchada combinado con un ajuste más concentrado en el mediopié en un diseño superligero te permite mantener un alto nivel de intensidad y concentración cuando la victoria pende de un hilo, al igual que Giannis en los momentos más decisivos.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/75251939-a090-43b5-8c65-8e32eadc2abd/calzado-de-b%C3%A1squetbol-giannis-immortality-2-X7xj7b.png"
+  },
+  {
+    "id": 39,
+    "title": "Luka 1",
+    "price": 120,
+    "description": "Diseñado para el número 77 y creado para todos los atletas que anhelan velocidad y eficiencia, el debut de Luka te ofrece todo el rendimiento que necesitas. Este calzado, el primero con espuma Fórmula 23 de largo completo, cuenta con un ajuste de gran soporte diseñado pensando en el famoso paso atrás. Al mismo tiempo, los filamentos Flight Wire fuertes y ligeros mantienen la contención, ya sea que estés jugando en el interior o en el exterior. Esta es la asistencia que has estado esperando. ¡Sal y haz tu tiro!",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4acd0f8a-6b1b-459e-accd-df3a42b81ed1/calzado-de-b%C3%A1squetbol-luka-1-69X9Vs.png"
+  },
+  {
+    "id": 40,
+    "title": "LeBron XX SE",
+    "price": 123.97,
+    "description": "LeBron James es considerado uno de los mejores, y con razón: desde llegar a los MVP hasta ganar campeonatos, el rey ha superado las expectativas en la cancha durante casi dos décadas. Celebra ese dominio con el calzado LeBron XX (o LeBron 20), la vigésima edición de su calzado exclusivo. Con amortiguación Zoom Air y una sensación superligera, este calzado te ayudará a correr, saltar y competir hasta el último minuto del partido.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d0aabbef-20b2-469b-80a6-24e2f47e9b61/calzado-talla-peque%C3%B1a-lebron-20-se-v1FWk3.png"
+  },
+  {
+    "id": 41,
+    "title": "LeBron XX",
+    "price": 160,
+    "description": "LeBron James es considerado uno de los mejores, y con razón: desde llegar a los MVP hasta ganar campeonatos, el Rey ha superado las expectativas en la cancha durante casi dos décadas. Celebra ese dominio con el calzado LeBron XX (o LeBron 20), la vigésima edición de su calzado exclusivo. Con la amortiguación Zoom Air y una sensación superligera, te ayudará a correr, saltar y competir hasta el último minuto del partido.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c7f2d68c-7893-4662-8593-210fa08cd8c1/calzado-lebron-20-3Xrk6v.png"
+  },
+  {
+    "id": 42,
+    "title": "KD Trey IX",
+    "price": 74.97,
+    "description": "Kevin Durant está en la cancha todos los días, entrena duro y mejora. El KD Trey 5 IX está diseñado para seguir el ritmo de su furiosa ética de entrenamiento. Le brinda la sensación de amortiguación tipo nube y la comodidad que le gusta, para mantener la frescura y concentración.",
+    "category": "zapatillas",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cf28bee9-eaf1-40d9-bf04-7cabc1c94442/calzado-de-b%C3%A1squetbol-kd-trey-5-9-1HJf9Q.png"
+  },
+
+
+
+
+  {
+    "id": 43,
+    "title": "LeBron All Court 8P",
+    "price": 45,
+    "description": "Desde Cleveland hasta Miami y LA, este balón de básquetbol es tan versátil como el jugador al que se le debe su nombre. Con una superficie pegajosa que proporciona un agarre óptimo, este balón cuenta con un exterior de goma duradera sin importar el tipo de cancha en la que juegues. Nunca pierdas el control de un extremo de la cancha al otro: el diseño profundo del canal proporciona un control del balón de primer nivel.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f2340cc4-1c90-40ce-ac1f-8e249e4c9ba0/bal%C3%B3n-de-b%C3%A1squetbol-lebron-all-court-8p-mVDWTB.png"
+  },
+  {
+    "id": 44,
+    "title": "Giannis All Court 8P",
+    "price": 45,
+    "description": "Ve con todo en la cancha, igual que tu jugador favorito. Ya sea en el gimnasio o en el parque local al aire libre, este balón está hecho para soportar cualquier superficie.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/969d9cd5-6dde-4714-8f94-77546fae16d2/bal%C3%B3n-de-b%C3%A1squetbol-giannis-all-court-8p-hsGC5P.png"
+  },
+  {
+    "id": 45,
+    "title": "Nike Elite All-Court 8P",
+    "price": 35,
+    "description": "Muestra tu destreza con el balón de básquetbol Nike Elite All-Court, ya sea en el gimnasio o jugando en el asfalto. Los canales profundos proporcionan un ajuste preciso de la mano y más control, al tiempo que la superficie adherente te ayuda a mantener el agarre.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/54481ba5-09c2-4609-be6e-0065c4a2dca0/bal%C3%B3n-de-b%C3%A1squetbol-elite-all-court-8p-Gvslv6.png"
+  } ,
+  {
+    "id": 46,
+    "title": "Jordan Playground 8P",
+    "price": 30,
+    "description": "El exterior de goma duradero te permite esforzarte al máximo al aire libre y los canales profundos te ofrecen un control óptimo. Así que sal y juega.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9c85ca1-3d01-4d5c-a748-ff0f4ad0d5a5/bal%C3%B3n-de-b%C3%A1squetbol-jordan-playground-8p-wpMXj1.png"
+  },
+  {
+    "id": 47,
+    "title": "Nike Everyday Playground 8P",
+    "price": 25,
+    "description": "El balón de básquetbol Nike Everyday Playground 8P presenta un patrón rugoso texturizado sobre goma duradera capaz de soportar el desgaste natural de las canchas al aire libre.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/400dee6a-0506-4606-a6c7-2ab6efe7f2e4/bal%C3%B3n-de-b%C3%A1squetbol-tama%C3%B1o-7-everyday-playground-8p-Z7zgNK.png"
+  },
+  {
+    "id": 48,
+    "title" : "NOCTA",
+    "price": 100,
+    "description": "El balón de básquetbol NOCTA está listo para la cancha con canales extraprofundos y un exterior compuesto suave que te ayuda a mantener el agarre. El diseño duradero le brinda una larga vida para toda la práctica que desees realizar.",
+    "category": "balones",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc3c08a8-8425-4779-9c3a-96704c36101c/bal%C3%B3n-de-b%C3%A1squetbol-elite-tournament-nocta-8-paneles-MMrHh4.png"
+  },
+  {
+    "id": 49,
+    "title" : "Golden State Warriors Statement Edition",
+    "price": 22.97,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Golden State Warriors con tus amigos. Es ajustable y cómodo sin importar a quién animes",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc281638-50e5-4dd4-9a51-3d00df4fc245/gorra-de-la-nba-jordan-heritage-86-golden-state-warriors-statement-edition-6nKrG6.png"
+  },
+  {
+    "id": 50,
+    "title" : "Los Angeles Lakers Statement Edition",
+    "price": 30,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a Los Angeles Lakers con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/801e6ea3-5876-487e-8eca-10c7c94e1aed/gorra-de-la-nba-jordan-heritage86-los-angeles-lakers-statement-edition-6nKrG6.png"
+  },
+  {
+    "id": 51,
+    "title" : "Boston Celtics Statement Edition",
+    "price": 30,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Boston Celtics con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0fa8d33f-6383-4a38-843a-bdbcc8b23d8c/gorra-de-la-nba-jordan-heritage86-boston-celtics-statement-edition-6nKrG6.png"
+  },
+  {
+    "id": 52,
+    "title" : "Phoenix Suns Statement Edition",
+    "price": 30,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Phoenix Suns con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78bffd9b-a0be-4945-b748-104cced95b1c/gorra-de-la-nba-jordan-heritage86-phoenix-suns-statement-edition-6nKrG6.png"
+  },
+  {
+    "id": 53,
+    "title" : "Dallas Mavericks Statement Edition",
+    "price": 22.97,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Dallas Mavericks con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d1a598b3-8cae-43f7-90ed-ae4a1ba84ec4/gorra-de-la-nba-jordan-heritage86-dallas-mavericks-statement-edition-6nKrG6.png"
+  },
+  {
+  "id": 54,
+  "title" : "Philadelphia 76ers Statement Edition",
+  "price": 30,
+  "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Philadelphia 76ers con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+  "category": "gorras",
+  "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6eb8248-e892-4458-8686-155e9dcbd680/gorra-de-la-nba-jordan-heritage86-philadelphia-76ers-statement-edition-6nKrG6.png"
+},
+{
+  "id": 55,
+  "title" : "Memphis Grizzlies Statement Edition",
+  "price": 30,
+  "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Memphis Grizzlies con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+  "category": "gorras",
+  "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2995188d-7542-4b58-be31-a119a51868c2/gorro-de-la-nba-jordan-heritage86-memphis-grizzlies-statement-edition-6nKrG6.png"
+},
+{
+    "id": 56,
+    "title" : "Brooklyn Nets Statement Edition",
+    "price": 29.97,
+    "description": "Ponte esta gorra y ve al partido o a tu bar favorito para animar a los Brooklyn Nets con tus amigos. Es ajustable y cómodo sin importar a quién animes.",
+    "category": "gorras",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9136765-7604-41d8-a236-2bc740cd3812/gorra-de-la-nba-jordan-heritage86-brooklyn-nets-statement-edition-6nKrG6.png"
+  }
+
+
+]

@@ -1,33 +1,38 @@
 
+import db from "../../../db/firebase-config"
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import "./cardDetails.css";
-
+import { doc, getDoc } from "firebase/firestore";
+import Button from "../Button";
 const CardDetails = () => {
-     const [products, setProducts] = useState({});
-     const { id } = useParams();
-     const getProducts = async () => {
-        try {
-            const response = await fetch(`https://fakestoreapi.com/products/${id}`);
-            const data = await response.json();
-            setProducts(data);
-        } catch (error) {
-            
-        }
-     };
-    
-     useEffect(() => {
-       getProducts();
-     }, [])
-     
+  const [item, setItem] = useState({})
+  const { id } = useParams()
+  const [loading, setLoading] = useState(true)
+  const getItem = async () => {
+    const ItemDoc = doc( db , "items" , id);
+    const item = await getDoc(ItemDoc)
+    if (item.exists()) {
+      setItem(item.data())
+      setLoading(false)
+    }
+  }
+
+  useEffect(() => {
+    getItem()
+  }, [])
+  if (loading) {
+    return <p>Loading...</p>
+  }
 
   return (
     <div className="details">
-        <h3 className="detailsTitle">{products.title}</h3>
-        <img className="detailsImg" src={products.image} alt={products.title} />
-        <p className="detailsPrice">$ {products.price}</p>
-        <p className="detailsDescription">{products.description}</p>
-        <p className="detailsCategory">Categoria: <span className="detailsSpan">{products.category}</span></p>
+        <h3 className="detailsTitle">{item.title}</h3>
+        <img className="detailsImg" src={item.image} alt={item.title} />
+        <p className="detailsPrice">Precio: $ {item.price}</p>
+        <p className="detailsDescription">{item.description}</p>
+        <p className="detailsCategory">Categoria: <span className="detailsSpan">{item.category}</span></p> 
+        <Button/>
     </div>
   )
 }
