@@ -1,40 +1,67 @@
-
-import db from "../../../db/firebase-config"
+import db from "../../../db/firebase-config";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import "./cardDetails.css";
 import { doc, getDoc } from "firebase/firestore";
 import Button from "../Button";
 const CardDetails = () => {
-  const [item, setItem] = useState({})
-  const { id } = useParams()
-  const [loading, setLoading] = useState(true)
+  const [item, setItem] = useState({});
+  const { id } = useParams();
+  const [loading, setLoading] = useState(true);
   const getItem = async () => {
-    const ItemDoc = doc( db , "items" , id);
-    const item = await getDoc(ItemDoc)
+    const ItemDoc = doc(db, "items", id);
+    const item = await getDoc(ItemDoc);
     if (item.exists()) {
-      setItem(item.data())
-      setLoading(false)
+      setItem(item.data());
+      setLoading(false);
     }
-  }
+  };
 
   useEffect(() => {
-    getItem()
-  }, [])
+    getItem();
+  }, []);
   if (loading) {
-    return <p>Loading...</p>
+    return (
+      <p className="text-2xl text-blue-500 font-semibold text-center pt-[50%]">
+        Loading...
+      </p>
+    );
   }
 
   return (
-    <div className="details">
-        <h3 className="detailsTitle">{item.title}</h3>
-        <img className="detailsImg" src={item.image} alt={item.title} />
-        <p className="detailsPrice">Precio: $ {item.price}</p>
-        <p className="detailsDescription">{item.description}</p>
-        <p className="detailsCategory">Categoria: <span className="detailsSpan">{item.category}</span></p> 
-        <Button/>
+    <div className="mt-[100px] bg-slate-400 m-7 p-8 rounded-xl">
+      <h3 className="text-2xl font-bold mb-3 text-center  text-blue-600">
+        {item.title}
+      </h3>
+      <div className="bg-slate-300 rounded-lg">
+        <div className="flex items-center gap-9">
+          <img
+            className=" h-[530px] rounded-xl"
+            src={item.image}
+            alt={item.title}
+          />
+          <div>
+            <p className="text-center text-xl font-semibold p-5">
+              {item.description}
+            </p>
+            <p className="text-center text-xl font-bold  mb-4">
+              Categoria:{" "}
+              <span className="text-2xl font-bold text-blue-700 uppercase">
+                {item.category}
+              </span>
+            </p>
+            <p className="text-center text-xl font-semibold mb-6">
+              Precio:
+              <span className="text-2xl font-bold text-blue-700">
+                {" "}
+                ${item.price}
+              </span>
+            </p>
+            <Button product={item} />
+          </div>
+        </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default CardDetails
+export default CardDetails;

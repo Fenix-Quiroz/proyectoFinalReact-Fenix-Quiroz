@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import CardProduct from "../CardProduct";
 import CategoresRuta from "../CategoriesRuta/index.";
-import "./itemListContainer.css";
 import db from "../../../db/firebase-config";
 import { getDocs, collection } from "firebase/firestore";
 import { useParams } from "react-router-dom";
@@ -22,7 +21,7 @@ const ItemListContainer = () => {
         setItems(items.filter((item) => item.category === categoryName));
       } else {
         setItems(items);
-        setLoading(false)
+        setLoading(false);
       }
     };
 
@@ -35,7 +34,7 @@ const ItemListContainer = () => {
   return (
     <div>
       <CategoresRuta products={items} />
-      <div className="productsContainer">
+      <div className="flex justify-center gap-6 flex-wrap mt-9">
         {items.map((item) => (
           <CardProduct key={item.id} product={item} />
         ))}

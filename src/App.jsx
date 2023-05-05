@@ -5,13 +5,12 @@ import { Navigate, Route, Routes } from "react-router-dom";
 import CardDetails from "./components/CardDetails";
 import Home from "./components/Home";
 import CartProducts from "./components/CartProducts";
-import Checkout from "./components/Checkout/Checkout";
 
 function App() {
   return (
     <>
       <header>
-      <Navbar />  
+      <Navbar />   
       </header> 
       <main> 
       <Routes> 
